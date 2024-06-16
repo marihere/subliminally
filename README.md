@@ -8,9 +8,10 @@
 ## Table of contents
 1. [Introduction](https://github.com/marihere/subliminally#introduction)
 2. [Getting started](https://github.com/marihere/subliminally#getting-started)
-3. [Usage](https://github.com/marihere/subliminally_gui#usage)
-4. [Example](https://github.com/marihere/subliminally#example)
-5. [Unlicense](https://github.com/marihere/subliminally#unlicense)
+3. [Donate](https://github.com/marihere/subliminally_gui#donate)
+4. [Usage](https://github.com/marihere/subliminally_gui#usage)
+5. [Example](https://github.com/marihere/subliminally#example)
+6. [Unlicense](https://github.com/marihere/subliminally#unlicense)
 
 <br>
 
@@ -63,6 +64,14 @@ $ python .\lib\main.py
 #### GUI version
 
 The GUI version can be found [here](https://github.com/marihere/subliminally_gui).
+
+<br>
+
+## Donate
+
+<a href="https://paypal.me/mariminnie/"><img src="blue.svg" height="40"></a>  
+
+<br>
 
 ## Usage
 
